@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name             = 'CleanroomLogger'
-  s.version          = '1.0.0'
+  s.name             = 'CleanroomLoggerClone'
+  s.version          = '2.2.2'
   s.summary          = 'CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant.'
   s.homepage         = 'https://github.com/kiranmadhav/CleanroomLoggerClone'
   s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
